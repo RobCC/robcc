@@ -1,6 +1,8 @@
 # Packages
 
-### Published
+![GitHub last commit](https://img.shields.io/github/last-commit/robcc/robcc.svg?label=Last%20Commit&style=popout-square)
+
+## Published
 
 | Package                   | Version                                                                             |
 | ------------------------- | ----------------------------------------------------------------------------------- |

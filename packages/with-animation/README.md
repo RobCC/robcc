@@ -1,5 +1,7 @@
 # @robcc/with-animation
 
+![npm](https://img.shields.io/npm/v/@robcc/with-animation.svg?style=popout-square)
+
 HOC that handles animation when mounting and unmounting a React component easily.
 
 ## Installation
