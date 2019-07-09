@@ -1,10 +1,7 @@
 # Packages
 
 ### Published
-|   Package   |   Version   |   Description   |
------------------------------------------------
-|[`name`](/packages/path) | [![npm](https://img.shields.io/npm/v/name.svg)](https://www.npmjs.com/package/name) | a description |
-### Private
-|   Package   |   Description   |
----------------------------------
-|[`name`](/packages/path) | a description |
+
+| Package                   | Version                                                                             |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| [`with-animation`](/packages/with-animation)  | [![npm](https://img.shields.io/npm/v/@robcc/with-animation.svg)](https://www.npmjs.com/package/@robcc/with-animation) |
