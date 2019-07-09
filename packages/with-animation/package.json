@@ -1,5 +1,5 @@
 {
-  "name": "with-animation",
+  "name": "@robcc/with-animation",
   "version": "0.1.0",
   "description": "HOC that handles animation when mounting and unmounting",
   "main": "build/index.js",
