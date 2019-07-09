@@ -1,5 +1,0 @@
-#Dependencies
-node_modules
-
-#Webpack destination folder
-build
