@@ -1,4 +1,4 @@
-# @robcc/with-animation ![npm](https://img.shields.io/npm/v/@robcc/with-animation.svg?style=popout-square)
+# @robcc/with-animation ![npm](https://img.shields.io/npm/v/@robcc/with-animation.svg?style=popout-square) ![downloads](https://img.shields.io/npm/dw/@robcc/with-animation.svg?style=flat-square)
 
 
 
