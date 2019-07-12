@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobCC/withAnimation.git"
+    "url": "git+https://github.com/RobCC/robcc"
   },
   "keywords": [
     "react",
@@ -19,13 +19,13 @@
   "author": "Roberto Chavez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RobCC/withAnimation/issues"
+    "url": "https://github.com/RobCC/robcc/issues"
   },
   "files": [
     "dist",
     "index.js"
   ],
-  "homepage": "https://github.com/RobCC/withAnimation#readme",
+  "homepage": "https://github.com/RobCC/robcc#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.0",
